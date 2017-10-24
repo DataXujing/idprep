@@ -1,0 +1,11 @@
+Package: idprep
+Type: Package
+Title: idprep
+Version: 0.1.0
+Author: DataXujing
+Maintainer: Xujing <274762204@qq.com>
+Description: ID number for data preprocessing.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports: stringr
