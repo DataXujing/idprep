@@ -1,14 +1,14 @@
-\name{'\%//\%'}
-\alias{'\%//\%'}
+\name{'\%d\%'}
+\alias{'\%d\%'}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-'\%//\%'
+'\%d\%'
 }
 \description{
  A define of Infix function which called Generalized Division.
 }
 \usage{
-X \%//\% Y
+X d\% Y
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
@@ -46,7 +46,8 @@ DataXujing
 
 # not run
 
-X \%//\% y
+X \%d\% y
 
 
 }
+

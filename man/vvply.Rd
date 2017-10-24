@@ -17,7 +17,7 @@ vvply(X,FUN,...)
 }
 
   \item{FUN}{
-    the function to be applied to each element of X: see ‘Details’. In the case of functions like \%//\% (in this package) the function name must be backquoted or quoted.
+    the function to be applied to each element of X: see ‘Details’. In the case of functions like \%d\% (in this package) the function name must be backquoted or quoted.
 }
 
   \item{...}{
