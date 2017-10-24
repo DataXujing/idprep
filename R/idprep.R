@@ -67,11 +67,18 @@ Province <- function(X){
   z
 }
 
-
-
-
-
 # Infix function Generalized Division fill 1
+
+
+div <- function(X,Y){
+  value <- round(X/Y,6)
+  value[which(is.na(value))] <-1
+  value[which(is.nan(value))] <-1
+  value[which(is.infinite(value))] <-1
+
+  value
+}
+
 
 `%d%` <- function(X,Y){
   value <- round(X/Y,6)
@@ -82,7 +89,7 @@ Province <- function(X){
   value
 }
 
-#`%d%` <- div(X,Y)
+
 
 
 

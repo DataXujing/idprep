@@ -46,7 +46,7 @@ genders(x)
 # not run 
 
 #-----genders Example-------------------------------
-
+library(stringr)
 genders(x)
 # obtain a numeric or vector about genders
 }

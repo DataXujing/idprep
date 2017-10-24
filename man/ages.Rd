@@ -45,6 +45,7 @@ ages(x)
 
 #-------------ages Example-----------------------
 
+library(stringr)
 ages(x)
 #obtain a numeric or vector about ages
 

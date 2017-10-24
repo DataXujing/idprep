@@ -46,7 +46,7 @@ DataXujing
 
 
 #not run
-
+library(stringr)
 Province(X)
 
 }

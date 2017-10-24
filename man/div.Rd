@@ -1,14 +1,14 @@
-\name{'\%d\%'}
-\alias{'\%d\%'}
+\name{div}
+\alias{div}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-'\%d\%'
+div
 }
 \description{
  A define of Infix function which called Generalized Division.
 }
 \usage{
-X d\% Y
+div(X,Y)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
@@ -46,7 +46,7 @@ DataXujing
 
 # not run
 
-X \%d\% y
+div(X,Y)
 
 
 }

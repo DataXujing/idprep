@@ -29,6 +29,8 @@ Maintainer: \packageMaintainer{idprep}
 
 # not run 
 
+library(stringr)
+
 #-----ages Example---------------------------------
 
 ages(x)
@@ -47,10 +49,10 @@ vvply(X,FUN,...)
 
 Province(X)
 
-#------------- \%d\%   Example-----------------------
+#------------- div   Example-----------------------
 
 
-X \%d\% Y
+div(X,Y)
 
 
 }
