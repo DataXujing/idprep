@@ -7,7 +7,7 @@
 
 ## 安装
 
-`devtools::install_github('DataXujing/idprep'，dependencies=TRUE)`
+`devtools::install_github('DataXujing/idprep',dependencies=TRUE)`
 
 ## 函数介绍
 
